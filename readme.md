@@ -1,13 +1,12 @@
-# YouTube Controlled Completion for LifterLMS
+# YouTube Controlled Completion
 
-A WordPress plugin that allows you to force a YouTube video to be fully watched before the **Mark Complete** button is enabled in LifterLMS lessons.  
+A WordPress plugin that allows you to force a YouTube video to be fully watched before the **Mark Complete** button is enabled in lessons.  
 After viewing, it saves the information locally so the button doesn't disappear upon refresh.
 
 ## 📦 Instalation
 
 1. Copy the plugin file (`youtube-controlled-completion.php`) to the directory: `/wp-content/plugins/youtube-controlled-completion/`
-2. In your WordPress dashboard, go to **Plugins** and activate:
-**YouTube Controlled Completion for LifterLMS**
+2. In your WordPress dashboard, go to **Plugins** and activate.
 
 ## 🛠️ Usage
 
